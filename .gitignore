@@ -19,6 +19,12 @@ lib64/
 parts/
 sdist/
 var/
+lightning_logs/
+catboost_info/
+runs/
+notebooks/lightning_logs/
+notebooks/catboost_info/
+notebooks/runs/
 wheels/
 share/python-wheels/
 *.egg-info/
