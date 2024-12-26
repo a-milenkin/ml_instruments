@@ -21,6 +21,7 @@ sdist/
 var/
 lightning_logs/
 catboost_info/
+models/
 runs/
 notebooks/lightning_logs/
 notebooks/catboost_info/
