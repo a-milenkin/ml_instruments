@@ -1,0 +1,25 @@
+[project]
+name = "ml-instruments"
+version = "0.1.0"
+description = "ML-instruments venv"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "clearml>=1.17.1",
+    "graphviz>=0.20.3",
+    "jupyter>=1.1.1",
+    "lightning>=2.5.0.post0",
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.3",
+    "onnx>=1.17.0",
+    "onnxruntime>=1.20.1",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "segmentation-models-pytorch>=0.4.0",
+    "torch>=2.6.0",
+    "torchmetrics>=1.6.1",
+    "torchview>=0.2.6",
+    "torchvision>=0.21.0",
+    "tqdm>=4.67.1",
+]
