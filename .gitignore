@@ -28,6 +28,7 @@ notebooks/catboost_info/
 notebooks/runs/
 notebooks/data/
 notebooks/core
+notebooks/output
 drafts/
 data/Cityscapes/*
 wheels/
