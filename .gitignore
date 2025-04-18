@@ -29,8 +29,10 @@ notebooks/runs/
 notebooks/data/
 notebooks/core
 notebooks/output
+notebooks/.envrc
 drafts/
 data/Cityscapes/*
+data/BIQ2021/*
 wheels/
 share/python-wheels/
 *.egg-info/
